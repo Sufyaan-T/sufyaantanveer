@@ -11,11 +11,10 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://tenor.com/view/beautiful-man-booty-dancing-tighty-whities-muscular-man-gif-15719179"
-          target="_blank"
+          href=" https://t .co/eVGmFHHYJY?amp=1"
           rel="noopener noreferrer"
         >
-          sym
+          Click me!!!!!!
         </a>
       </header>
     </div>
