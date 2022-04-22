@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './lolz.gif';
 import './App.css';
 
 function App() {
@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Whatchu know about rolling down in the deep?
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://tenor.com/view/beautiful-man-booty-dancing-tighty-whities-muscular-man-gif-15719179"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          sym
         </a>
       </header>
     </div>
