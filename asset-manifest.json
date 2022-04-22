@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sufyaantanveer/static/css/main.073c9b0a.css",
+    "main.js": "/sufyaantanveer/static/js/main.82577e89.js",
+    "static/js/787.dbc24a07.chunk.js": "/sufyaantanveer/static/js/787.dbc24a07.chunk.js",
+    "static/media/lolz.gif": "/sufyaantanveer/static/media/lolz.889012ffe6d42050c272.gif",
+    "index.html": "/sufyaantanveer/index.html",
+    "main.073c9b0a.css.map": "/sufyaantanveer/static/css/main.073c9b0a.css.map",
+    "main.82577e89.js.map": "/sufyaantanveer/static/js/main.82577e89.js.map",
+    "787.dbc24a07.chunk.js.map": "/sufyaantanveer/static/js/787.dbc24a07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.82577e89.js"
+  ]
+}
